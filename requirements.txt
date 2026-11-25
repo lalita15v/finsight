@@ -1,0 +1,21 @@
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Data validation and configuration
+pydantic
+pydantic-settings
+python-dotenv
+
+# Financial data processing
+pandas
+
+# External system and API integrations
+httpx
+
+# Database operations
+sqlalchemy
+
+# Testing
+pytest
